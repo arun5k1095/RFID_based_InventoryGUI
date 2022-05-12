@@ -1,0 +1,15 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="resources">
+        <file alias="BackGroundImage.jpg">BackGroundImage.jpg</file>
+        <file alias="Icon.ico">Icon.ico</file>
+        <file alias="ConfigIcon.JPG">ConfigIcon.JPG</file>
+        <file alias="CloseIcon.JPG">CloseIcon.JPG</file>
+        <file alias="About.JPG">About.JPG</file>
+        <file alias="Options.JPG">Options.JPG</file>
+        <file alias="CompanyLogo.jpg">CompanyLogo.jpg</file>
+    </qresource>
+</RCC>
+
+
+<!-- Command : Pyrcc5 Resources.qrc -o Resources.py-->
